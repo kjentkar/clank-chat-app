@@ -9,3 +9,7 @@ Downloads for ClankChat for Mac. The source code is not public.
 3. Open ClankChat from Applications and follow the setup.
 
 ClankChat needs [Tailscale](https://tailscale.com) on the Mac and on the iPhone.
+
+## Privacy
+
+See [PRIVACY.md](PRIVACY.md). ClankChat collects no data.
